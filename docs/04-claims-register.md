@@ -60,3 +60,22 @@ Legend — **A** tool · **B** held · **C** marked, never load-bearing
 
 No Layer C → A promotion has occurred. If one ever does, it needs a check
 that can go red, and Bobby's word.
+
+## Terms used here
+
+Defined here so this document can be read cold. The full glossary is
+`GLOSSARY.md`.
+
+
+- **M0 governor** - the deterministic component with authority to refuse
+- **M1 controller** - the out-of-core component that qualifies operators and audits changes
+- **constitutional axis** - a coordinate with thresholds rather than a continuous value
+- **sheaf** - a system of data on pieces of a space that agrees on overlaps
+- **Clifford torus** - the flat torus inside the 3-sphere
+
+## More terms
+
+
+- **gradient** - the direction in which a function rises fastest
+- **harmonic** - the part of a field with Delta h = 0, preserved under gradient flow
+- **Hodge Laplacian** - the operator Delta = dd* + d*d that makes those parts orthogonal

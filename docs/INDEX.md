@@ -50,3 +50,19 @@ does not divide.
 Every figure in these docs was produced by running the module and is
 reproducible from the command above. Where a number contradicts an earlier
 claim, both are here, dated, with the correction named.
+
+## Terms used here
+
+Defined here so this document can be read cold. The full glossary is
+`GLOSSARY.md`.
+
+
+- **prerequisite load** - the fraction of a document's domain terms that it never defines for the reader
+- **Clifford torus** - the flat torus inside the 3-sphere
+
+## More terms
+
+
+- **gradient** - the direction in which a function rises fastest
+- **harmonic** - the part of a field with Delta h = 0, preserved under gradient flow
+- **Heegaard splitting** - building a 3-manifold by gluing two handlebodies along their boundary

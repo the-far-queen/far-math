@@ -109,3 +109,13 @@ repo does not claim it.
 | twin-prime cascade ≈ φ | already falsified to 200,000; extends if it fails at 10⁷ |
 | α as prime/Fibonacci offset | a derivation of α⁻¹ from the offset arithmetic to better than 0.1 % — or a measured offset that misses 137 by more than the quoted error |
 | the layer rule itself | a Layer C claim surviving promotion to A without a check that can go red |
+
+## Terms used here
+
+Defined here so this document can be read cold. The full glossary is
+`GLOSSARY.md`.
+
+
+- **twin primes** - two primes differing by 2, such as 11 and 13
+- **Seifert genus** - the least number of handles on a surface bounding a given knot
+- **manifold** - a space that locally looks like ordinary Euclidean space

@@ -61,3 +61,20 @@ authority) doing the work instead of mathematics.
 | veto authority | none | 1-bit gate |
 
 Same mathematics, lower cost, explicit control.
+
+## Terms used here
+
+Defined here so this document can be read cold. The full glossary is
+`GLOSSARY.md`.
+
+
+- **projected gradient step** - moving against the gradient of an energy F, with the result projected back into a bounded region
+- **Hodge decomposition** - splitting a field into exact, coexact and harmonic parts
+- **harmonic** - the part of a field with Delta h = 0, which gradient flow does not move
+
+## More terms
+
+
+- **gradient** - the direction in which a function rises fastest
+- **gradient flow** - descending a quantity by moving against its gradient
+- **manifold** - a space that locally looks like ordinary Euclidean space

@@ -110,3 +110,21 @@ Real mathematics, currently glued onto code that does not implement it:
 - Giza, Tesla, Schauberger, mercury, water-plasma
 
 None of these are on the science tree. All of them are kept.
+
+## Terms used here
+
+Defined here so this document can be read cold. The full glossary is
+`GLOSSARY.md`.
+
+
+- **manifold** - a space that locally looks like ordinary Euclidean space
+- **Heegaard splitting** - building a 3-manifold by gluing two handlebodies along their boundary
+- **Clifford torus** - the flat torus inside the 3-sphere, given by |z| = |w| = 1/sqrt(2)
+- **Hopf fibration** - a map from the 3-sphere onto the 2-sphere whose fibers are great circles
+- **solid torus** - D2 x S1, a doughnut
+- **Seifert genus** - the least number of handles on a surface whose boundary is a given knot
+
+## More terms
+
+
+- **gradient** - the direction in which a function rises fastest
